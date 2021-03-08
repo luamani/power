@@ -1,0 +1,13 @@
+Power
+
+Step of runing
+1- extract the attached folder power/rar
+2- you will get all of the model files in  one folder( power"
+3- at first open the file  ' red_parameters.m' in matlab
+4- press run 
+5- open the file, red2_16b.slx
+6- press run
+7- open the graphs_calculate.m press run
+
+at any time you get a message from Matlab, then select add path, then contenue.
+
